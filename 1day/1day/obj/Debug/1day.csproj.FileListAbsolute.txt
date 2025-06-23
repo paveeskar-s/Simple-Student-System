@@ -1,0 +1,10 @@
+D:\C#\1day\1day\bin\Debug\1day.exe.config
+D:\C#\1day\1day\bin\Debug\1day.exe
+D:\C#\1day\1day\bin\Debug\1day.pdb
+D:\C#\1day\1day\obj\Debug\1day.csproj.AssemblyReference.cache
+D:\C#\1day\1day\obj\Debug\_1day.Form1.resources
+D:\C#\1day\1day\obj\Debug\_1day.Properties.Resources.resources
+D:\C#\1day\1day\obj\Debug\1day.csproj.GenerateResource.cache
+D:\C#\1day\1day\obj\Debug\1day.csproj.CoreCompileInputs.cache
+D:\C#\1day\1day\obj\Debug\1day.exe
+D:\C#\1day\1day\obj\Debug\1day.pdb
